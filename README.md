@@ -123,7 +123,3 @@ Every assessment instrument has undergone psychometric validation to ensure reli
 To empower individuals through scientifically validated assessment systems that support career development, entrepreneurship, and lifelong learning.
 
 ---
-
-# ❤️ Acknowledgment
-
-Special thanks to all lecturers, teachers, students, alumni, practitioners, employers, and industry partners (DUDI) who contributed to the research and validation of the assessment instruments.
