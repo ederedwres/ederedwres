@@ -26,7 +26,7 @@ Both applications were developed using scientifically validated assessment instr
 # 💡 EDER
 
 <p align="center">
-<img src="assets/eder-logo.png" width="180">
+<img src="logo.png" width="180">
 </p>
 
 **Early Detection Entrepreneurial Readiness (EDER)** is an intelligent assessment platform designed to measure an individual's readiness to become an entrepreneur.
