@@ -26,7 +26,7 @@ Both applications were developed using scientifically validated assessment instr
 # 💡 EDER
 
 <p align="center">
-<img src="logo2.png" width="180">
+<img src="logo_1779189228.png" width="180">
 </p>
 
 **Early Detection Entrepreneurial Readiness (EDER)** is an intelligent assessment platform designed to measure an individual's readiness to become an entrepreneur.
@@ -55,7 +55,7 @@ EDER helps individuals identify their strengths and areas for improvement before
 # 💼 EDWRES
 
 <p align="center">
-<img src="assets/edwres-logo.png" width="180">
+<img src="icon.png" width="180">
 </p>
 
 **Early Detection Work Readiness based on Employability Skills (EDWRES)** is an intelligent assessment platform developed to evaluate an individual's readiness to enter the professional workforce.
